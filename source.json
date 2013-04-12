@@ -1,0 +1,9 @@
+{
+  "firstName" : "Vlad",
+	"secondName" : "Sournine",
+	"age" : 37,
+	"married": false,
+	"name_of_wife": "",
+	"interest" : ["diving","photo","sleeping",34,22],
+	"subOjb" : { "la" : 1, "be" : 2, "c": [ 11,22,33,44]}
+}
