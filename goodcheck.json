@@ -1,0 +1,10 @@
+{
+  "firstName" : "Sergey",
+	"secondName" : "Sidoroff",
+	"age" : 23,
+	"married": true,
+	"name_of_wife": "Polina",
+	"interest" : ["reading","walking"],
+	"subOjb" : { "la" : 7, "be" : 1, "c": [ 2211,3333,44144]}
+
+}
