@@ -3,7 +3,7 @@ jsoncomparing
 
 Compare two JSON files (Etalon & Check)
 
-Version 0.1
+Version 0.2
 
 Как это работает?
 
